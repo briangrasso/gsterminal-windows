@@ -1,0 +1,1 @@
+Currently, the LoadRegUsrLs function in main() is disabled. I need to be able to save the vector as a member of the a class to a file, and retrieve it for use in later C# development. Any help would be greatly appreciated, and is valued in G# Stablecoins. Thanks!
