@@ -1,0 +1,25 @@
+﻿  bank2 (1).cpp
+K:\GSMGMT\projects\mgmtplat\bank2 (1).cpp(31,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+K:\GSMGMT\projects\mgmtplat\bank2 (1).cpp(32,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+K:\GSMGMT\projects\mgmtplat\bank2 (1).cpp(402,26): warning C4066: characters beyond first in wide-character constant ignored
+K:\GSMGMT\projects\mgmtplat\bank2 (1).cpp(402,35): warning C4066: characters beyond first in wide-character constant ignored
+K:\GSMGMT\projects\mgmtplat\bank2 (1).cpp(402,45): warning C4066: characters beyond first in wide-character constant ignored
+K:\GSMGMT\projects\mgmtplat\bank2 (1).cpp(402,55): warning C4066: characters beyond first in wide-character constant ignored
+K:\GSMGMT\projects\mgmtplat\bank2 (1).cpp(402,65): warning C4066: characters beyond first in wide-character constant ignored
+K:\GSMGMT\projects\mgmtplat\bank2 (1).cpp(402,75): warning C4066: characters beyond first in wide-character constant ignored
+K:\GSMGMT\projects\mgmtplat\bank2 (1).cpp(402,85): warning C4066: characters beyond first in wide-character constant ignored
+K:\GSMGMT\projects\mgmtplat\bank2 (1).cpp(402,95): warning C4066: characters beyond first in wide-character constant ignored
+K:\GSMGMT\projects\mgmtplat\bank2 (1).cpp(402,105): warning C4066: characters beyond first in wide-character constant ignored
+K:\GSMGMT\projects\mgmtplat\bank2 (1).cpp(402,114): warning C4066: characters beyond first in wide-character constant ignored
+K:\GSMGMT\projects\mgmtplat\bank2 (1).cpp(402,124): warning C4066: characters beyond first in wide-character constant ignored
+K:\GSMGMT\projects\mgmtplat\bank2 (1).cpp(402,134): warning C4066: characters beyond first in wide-character constant ignored
+K:\GSMGMT\projects\mgmtplat\bank2 (1).cpp(403,7): warning C4066: characters beyond first in wide-character constant ignored
+K:\GSMGMT\projects\mgmtplat\bank2 (1).cpp(403,16): warning C4066: characters beyond first in wide-character constant ignored
+K:\GSMGMT\projects\mgmtplat\bank2 (1).cpp(403,25): warning C4066: characters beyond first in wide-character constant ignored
+K:\GSMGMT\projects\mgmtplat\bank2 (1).cpp(403,34): warning C4066: characters beyond first in wide-character constant ignored
+K:\GSMGMT\projects\mgmtplat\bank2 (1).cpp(403,43): warning C4066: characters beyond first in wide-character constant ignored
+K:\GSMGMT\projects\mgmtplat\bank2 (1).cpp(403,52): warning C4066: characters beyond first in wide-character constant ignored
+K:\GSMGMT\projects\mgmtplat\bank2 (1).cpp(403,61): warning C4066: characters beyond first in wide-character constant ignored
+K:\GSMGMT\projects\mgmtplat\bank2 (1).cpp(403,70): warning C4066: characters beyond first in wide-character constant ignored
+K:\GSMGMT\projects\mgmtplat\bank2 (1).cpp(403,79): warning C4066: characters beyond first in wide-character constant ignored
+K:\GSMGMT\projects\mgmtplat\bank2 (1).cpp(403,88): warning C4066: characters beyond first in wide-character constant ignored
