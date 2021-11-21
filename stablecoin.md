@@ -1,1 +1,1 @@
- The value of G# Stablecoin is stable in that they have a direct relationship to the value of  G# Management Services Inc. stock at a ratio of 100,000,000:1/100,000. Smaller units of tokens and chips may be used for trade purposes on the G# Management Services Inc. network.
+ The value of G# Stablecoin is stable in that they have a direct relationship to the value of  G# Management Services Inc. stock at a ratio of 100,000,000:1/100,000 (at IPO = $0.001). Smaller units of tokens and chips may be used for trade purposes on the G# Management Services Inc. network.
