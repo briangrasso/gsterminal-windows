@@ -9,6 +9,7 @@
 #include <stdlib.h>
 #include <algorithm>
 
+
 using namespace std;
 
 string initLogin;
@@ -28,7 +29,9 @@ struct UserInfo
 {
 	UserInfo() {};
 	UserInfo(const char* Username, const char* Password) {
+#pragma warning(suppress:4996)
 		strcpy(newUser, Username);
+#pragma warning(suppress:4996)
 		strcpy(newPassword, Password);
 	}
 
