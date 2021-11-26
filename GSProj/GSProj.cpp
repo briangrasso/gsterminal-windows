@@ -107,7 +107,7 @@ void HebPrompt() {
 
 int InLogFunc() {
 	string* loginPoint = &initLogin;
-	string openMeth = "userfiles/" + *loginPoint;
+	string openMeth = "K:\\GSMGMT\\projects\\mgmtplat\\gsterminal\\" + *loginPoint;
 	string* openFile = &openMeth;
 
 	if (initLogin == "new") {
@@ -162,7 +162,7 @@ void Verify() {
 	cin >> verification;
 
 	string* initPoint = &initLogin;
-	string methodOpen = "userfiles/" + *initPoint;
+	string methodOpen = "K:\\GSMGMT\\projects\\mgmtplat\\gsterminal\\" + *initPoint;
 	string* Opener = &methodOpen;
 
 	ifstream UserFile(*Opener, ios_base::in | ios_base::binary);
@@ -210,7 +210,7 @@ void VerifyNew() {
 		thisConverter >> stringConvert;
 
 		string* initPoint = &stringConvert;
-		string methodOpen = "userfiles/" + *initPoint;
+		string methodOpen = "K:\\GSMGMT\\projects\\mgmtplat\\gsterminal\\" + *initPoint;
 		string* Opener = &methodOpen;
 
 		ifstream UserFile(*Opener, ios_base::in | ios_base::binary);
@@ -261,7 +261,7 @@ void MakeUser() {
 		converterStream >> convertedString;
 
 		string* filePointer = &convertedString;
-		string openMethod = "userfiles/" + *filePointer;
+		string openMethod = "K:\\GSMGMT\\projects\\mgmtplat\\gsterminal\\" + *filePointer;
 		string* methodPoint = &openMethod;
 
 		ofstream FileOut;
@@ -490,7 +490,7 @@ int Core() {
 
 			cout << "Values in Key:" << endl;
 
-			string pathmaker = "progdata/valuesheet";
+			string pathmaker = "K:\\GSMGMT\\projects\\mgmtplat\\gsterminal\\progdata\\valuesheet\\";
 			string* opener = &pathmaker;
 
 			if (forKey >= -4 && forKey <= 7) {
@@ -668,7 +668,7 @@ int Core() {
 void SaveRegUsrLs() {
 	cout << "Saving userList" << endl;
 
-	string usrLsPath = "progdata/usrLs";
+	string usrLsPath = "K:\\GSMGMT\\projects\\mgmtplat\\gsterminal\\progdata\\usrLs\\";
 	string* pathUsrLs = &usrLsPath;
 
 	ofstream UserList(*pathUsrLs, ios_base::out | ios_base::binary);
@@ -692,7 +692,7 @@ void SaveRegUsrLs() {
 
 void LoadRegUsrLs() {
 	cout << "Loading userList" << endl;
-	string fileLoad = "progdata/usrLs";
+	string fileLoad = "K:\\GSMGMT\\projects\\mgmtplat\\gsterminal\\progdata\\usrLs\\";
 	string* openLoader = &fileLoad;
 
 	ifstream LoadFile(*openLoader, ios_base::in | ios_base::binary);
