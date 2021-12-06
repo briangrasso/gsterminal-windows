@@ -1,0 +1,147 @@
+tone[1]  0053EB5C  tone[22]  0053EB86  tone[43]  0053EBB0  tone[64]  0053EBDA  tone[85]  0053EC04  tone[106]  0053EC2E
+tone[2]  0053EB5E  tone[23]  0053EB88  tone[44]  0053EBB2  tone[65]  0053EBDC  tone[86]  0053EC06  tone[107]  0053EC30
+tone[3]  0053EB60  tone[24]  0053EB8A  tone[45]  0053EBB4  tone[66]  0053EBDE  tone[87]  0053EC08  tone[108]  0053EC32
+tone[4]  0053EB62  tone[25]  0053EB8C  tone[46]  0053EBB6  tone[67]  0053EBE0  tone[88]  0053EC0A  tone[109]  0053EC34
+tone[5]  0053EB64  tone[26]  0053EB8E  tone[47]  0053EBB8  tone[68]  0053EBE2  tone[89]  0053EC0C  tone[110]  0053EC36
+tone[6]  0053EB66  tone[27]  0053EB90  tone[48]  0053EBBA  tone[69]  0053EBE4  tone[90]  0053EC0E  tone[111]  0053EC38
+tone[7]  0053EB68  tone[28]  0053EB92  tone[49]  0053EBBC  tone[70]  0053EBE6  tone[91]  0053EC10  tone[112]  0053EC3A
+tone[8]  0053EB6A  tone[29]  0053EB94  tone[50]  0053EBBE  tone[71]  0053EBE8  tone[92]  0053EC12  tone[113]  0053EC3C
+tone[9]  0053EB6C  tone[30]  0053EB96  tone[51]  0053EBC0  tone[72]  0053EBEA  tone[93]  0053EC14  tone[114]  0053EC3E
+tone[10]  0053EB6E  tone[31]  0053EB98  tone[52]  0053EBC2  tone[73]  0053EBEC  tone[94]  0053EC16  tone[115]  0053EC40
+tone[11]  0053EB70  tone[32]  0053EB9A  tone[53]  0053EBC4  tone[74]  0053EBEE  tone[95]  0053EC18  tone[116]  0053EC42
+tone[12]  0053EB72  tone[33]  0053EB9C  tone[54]  0053EBC6  tone[75]  0053EBF0  tone[96]  0053EC1A  tone[117]  0053EC44
+tone[13]  0053EB74  tone[34]  0053EB9E  tone[55]  0053EBC8  tone[76]  0053EBF2  tone[97]  0053EC1C  tone[118]  0053EC46
+tone[14]  0053EB76  tone[35]  0053EBA0  tone[56]  0053EBCA  tone[77]  0053EBF4  tone[98]  0053EC1E  tone[119]  0053EC48
+tone[15]  0053EB78  tone[36]  0053EBA2  tone[57]  0053EBCC  tone[78]  0053EBF6  tone[99]  0053EC20  tone[120]  0053EC4A
+tone[16]  0053EB7A  tone[37]  0053EBA4  tone[58]  0053EBCE  tone[79]  0053EBF8  tone[100]  0053EC22  tone[121]  0053EC4C
+tone[17]  0053EB7C  tone[38]  0053EBA6  tone[59]  0053EBD0  tone[80]  0053EBFA  tone[101]  0053EC24  tone[122]  0053EC4E
+tone[18]  0053EB7E  tone[39]  0053EBA8  tone[60]  0053EBD2  tone[81]  0053EBFC  tone[102]  0053EC26  tone[123]  0053EC50
+tone[19]  0053EB80  tone[40]  0053EBAA  tone[61]  0053EBD4  tone[82]  0053EBFE  tone[103]  0053EC28  tone[124]  0053EC52
+tone[20]  0053EB82  tone[41]  0053EBAC  tone[62]  0053EBD6  tone[83]  0053EC00  tone[104]  0053EC2A  tone[125]  0053EC54
+tone[21]  0053EB84  tone[42]  0053EBAE  tone[63]  0053EBD8  tone[84]  0053EC02  tone[105]  0053EC2C  tone[126]  0053EC56
+tone[1]   	1
+tone[2]   	7
+tone[3]   	13
+tone[4]   	19
+tone[5]   	25
+tone[6]   	31
+tone[7]   	37
+tone[8]   	43
+tone[9]   	49
+tone[10]   	55
+tone[11]   	61
+tone[12]   	67
+tone[13]   	73
+tone[14]   	79
+tone[15]   	85
+tone[16]   	91
+tone[17]   	97
+tone[18]   	103
+tone[19]   	109
+tone[20]   	115
+tone[21]   	121
+tone[22]   	2
+tone[23]   	8
+tone[24]   	14
+tone[25]   	20
+tone[26]   	26
+tone[27]   	32
+tone[28]   	38
+tone[29]   	44
+tone[30]   	50
+tone[31]   	56
+tone[32]   	62
+tone[33]   	68
+tone[34]   	74
+tone[35]   	80
+tone[36]   	86
+tone[37]   	92
+tone[38]   	98
+tone[39]   	104
+tone[40]   	110
+tone[41]   	116
+tone[42]   	122
+tone[43]   	3
+tone[44]   	9
+tone[45]   	15
+tone[46]   	21
+tone[47]   	27
+tone[48]   	33
+tone[49]   	39
+tone[50]   	45
+tone[51]   	51
+tone[52]   	57
+tone[53]   	63
+tone[54]   	69
+tone[55]   	75
+tone[56]   	81
+tone[57]   	87
+tone[58]   	93
+tone[59]   	99
+tone[60]   	105
+tone[61]   	111
+tone[62]   	117
+tone[63]   	123
+tone[64]   	4
+tone[65]   	10
+tone[66]   	16
+tone[67]   	22
+tone[68]   	28
+tone[69]   	34
+tone[70]   	40
+tone[71]   	46
+tone[72]   	52
+tone[73]   	58
+tone[74]   	64
+tone[75]   	70
+tone[76]   	76
+tone[77]   	82
+tone[78]   	88
+tone[79]   	94
+tone[80]   	100
+tone[81]   	106
+tone[82]   	112
+tone[83]   	118
+tone[84]   	124
+tone[85]   	5
+tone[86]   	11
+tone[87]   	17
+tone[88]   	23
+tone[89]   	29
+tone[90]   	35
+tone[91]   	41
+tone[92]   	47
+tone[93]   	53
+tone[94]   	59
+tone[95]   	65
+tone[96]   	71
+tone[97]   	77
+tone[98]   	83
+tone[99]   	89
+tone[100]   	95
+tone[101]   	101
+tone[102]   	107
+tone[103]   	113
+tone[104]   	119
+tone[105]   	125
+tone[106]   	6
+tone[107]   	12
+tone[108]   	18
+tone[109]   	24
+tone[110]   	30
+tone[111]   	36
+tone[112]   	42
+tone[113]   	48
+tone[114]   	54
+tone[115]   	60
+tone[116]   	66
+tone[117]   	72
+tone[118]   	78
+tone[119]   	84
+tone[120]   	90
+tone[121]   	96
+tone[122]   	102
+tone[123]   	108
+tone[124]   	114
+tone[125]   	120
+tone[126]   	126
